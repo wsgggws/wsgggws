@@ -17,9 +17,9 @@
 
 ## 💡 Philosophy
 
-> 码码要洗手 🧼，写代码前后都要保持干净～
+> 码码要洗手 🧼，代码爱干净～
 
-*(Wash your hands before and after coding—keep your mind and code clean!)*
+*(Wash your hands with code, the code is clean~)*
 
 ## 🌍 Social & Links
 
