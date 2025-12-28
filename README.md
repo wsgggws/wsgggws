@@ -4,7 +4,7 @@
 
 ## 🛠️ About Me
 
-- 九年 Python，尚未秃头的攻城狮🦁。
+- 头发上撸，尚未秃头的攻城狮🦁。
 - 专业创造有 GIL/goroutine 气质的 Bug，然后优雅修复。
 - 和 WebAPI 谈恋爱，闹脾气，我哄；崩溃，我陪；宕机，我背锅。
 - 复杂的问题简单化，简单的问题复杂化。努力提升系统的  
@@ -23,7 +23,8 @@
 
 ## 🌍 Social & Links
 
-- 🌐 [Personal Website](https://navydev.top)
+- 🌐 [navydev.top](https://navydev.top)
+- 🌐 [rss.navydev.top](https://rss.navydev.top)
 
 ---
 
