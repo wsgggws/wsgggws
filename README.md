@@ -25,6 +25,7 @@
 
 - 🌐 [navydev.top](https://navydev.top)
 - 🌐 [rss.navydev.top](https://rss.navydev.top)
+- 🌐 [wsgggws.github.io](https://wsgggws.github.io)
 
 ---
 
