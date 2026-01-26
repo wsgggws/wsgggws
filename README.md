@@ -10,7 +10,7 @@
 - 复杂的问题简单化，简单的问题复杂化。努力提升系统的  
   🌿 **易维护性**：人类可读，顺便让机器执行  
   🔭 **可观测性**：看你开心，还为你排忧解难
-- 业余研究历史，古人在没有 Claude Code 的年代如何改 Coding 呢🤔
+- 业余研究历史，古人在没有 Claude Code 的时候如何 Coding 呢🤔
 - **Favorite projects:**  
   - **Reading**
   - **Jogging**
