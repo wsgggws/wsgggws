@@ -12,7 +12,7 @@
   🔭 **可观测性**：看你开心，还为你排忧解难
 - 业余研究历史，古人在没有 Claude Code 的时候如何 Coding 呢🤔
 - **Favorite projects:**  
-  - **Reading**
+  - **[Reading](https://github.com/wsgggws/books)**
   - **Jogging**
 
 ## 💡 Philosophy
