@@ -44,23 +44,3 @@
 ![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![wsgggws's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsgggws&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsgggws&layout=compact&theme=radical)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wsgggws/wsgggws/master/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wsgggws/wsgggws/master/profile-3d-contrib/profile-green-contrib.svg" />
-  <img alt="github-active" src="https://raw.githubusercontent.com/wsgggws/wsgggws/master/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
-
-<img src="https://cnb.cool/66666/resource/-/git/raw/main/img/breakout-dark.svg" alt="Breakout Game" />
-
-</div>
